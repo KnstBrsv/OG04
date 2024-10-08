@@ -1,5 +1,5 @@
-a = 3 # this is a comment
-b = 5
+a, b = 3, 5 # this is a comment
+
 if a > b:
     print("a is greater than b")
 elif a < b:
